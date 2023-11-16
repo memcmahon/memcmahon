@@ -4,5 +4,3 @@ I'm a Backend Developer and Instructor.  I love to learn new things about progra
 
 ### 🏗️I'm currently working on...
 Building some new curriculum for the [TuringSchool Launch Program](https://github.com/turingschool/launch-curriculum).  Ask me about what it's like to switch from Ruby to C#!
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=memcmahon&show_icons=true&locale=en&layout=compact&theme=buefy" alt="memcmahon" /></p>
